@@ -35,11 +35,12 @@ untuk hasil outputnya
 3. Selanjutnya untuk menambahkan format text<br>
 <br>
 Input Memformat Text
+
 ![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/Input_formattext.PNG)
-<br>
+
 Output Memformat Text
 ![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/Output_formattext.PNG)
-<br>
+
 
 4. Menyisipkan Gambar
 Input untuk menampilkan gambar pada html <br>
