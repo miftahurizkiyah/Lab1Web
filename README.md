@@ -9,9 +9,10 @@ Kelas : TI.20.B.1 <br>
 -----------------------------------------
 Langkah-Langkah Praktikum HTML
 
+kita menggunakan visual studio code dan google chrome.<br>
 
 ![input awal](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/SS1.PNG)
-kita menggunakan visual studio code dan google chrome.
+
 
 Langkah pertama adalah untuk membuat paragraf: <br>
 ![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/Membuat_Paragraf.PNG)
@@ -29,6 +30,13 @@ Selanjutnya kita akan menambahkan judul, source code nya <br>
 <br>
 untuk hasil outputnya <br>
 ![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/Output_tambahjudul.PNG)
+<br>
+Selanjutnya untuk menambahkan format text<br>
+Output dan inputnya adalah: <br>
+![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/Input_formattext.PNG)
+<br>
+![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/Output_formattext.PNG)
+
 
 
 
