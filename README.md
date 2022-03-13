@@ -1,4 +1,4 @@
-#Lab1Web
+# Lab1Web
 
 Lab 1 Pemrogaraman Web_Tag HTML Dasar
 
@@ -26,14 +26,14 @@ untuk merubah posisi kita bisa menggunakan align center atau right <br>
 ![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/align.PNG)
 
 
-# 2. Selanjutnya kita akan menambahkan judul, source code nya <br>
+## 2. Selanjutnya kita akan menambahkan judul, source code nya <br>
 ![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/Input_Tambahjudul.PNG)
 
 untuk hasil outputnya
 ![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/Output_tambahjudul.PNG)
 
 
-# 3. Selanjutnya untuk menambahkan format text<br>
+## 3. Selanjutnya untuk menambahkan format text<br>
 <br>
 Input Memformat Text
 
@@ -44,7 +44,7 @@ Output Memformat Text
 ![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/Output_formattext.PNG)
 
 
-#4. Menyisipkan Gambar
+## 4. Menyisipkan Gambar
 Input untuk menampilkan gambar pada html <br>
 
 ![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/Input_tambahgambar.PNG)
@@ -55,7 +55,7 @@ Output untuk menampilkan gambar pada html <br>
 ![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/Output_tambahgambar.PNG)
 <br>
 
-#5. Menambahkan Hyperlink 
+## 5. Menambahkan Hyperlink 
 Input untuk menambahkan hyperlink
 
 ![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/Input_tambahhyperlink.PNG)
