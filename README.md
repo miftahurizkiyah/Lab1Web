@@ -66,7 +66,7 @@ Output untuk menambahkan hyperlink
 ![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/Output_tambahhyperlink.PNG)
 
 <br>
-Dmeikian beberapa step dalam pembuatan html.
+Demikian beberapa step dalam pembuatan html yang bisa saya buat. 
 
 ## Thank You ##
 
