@@ -5,6 +5,7 @@ Lab 1 Pemrogaraman Web_Tag HTML Dasar
 Nama  : Miftahu Rizkiyah <br>
 NIM   : 312010014 <br>
 Kelas : TI.20.B.1 <br>
+Tugas : Pemograman Web (Pertemuan ke-2) <br>
 
 -----------------------------------------
 Langkah-Langkah Praktikum HTML
@@ -61,7 +62,7 @@ Input untuk menambahkan hyperlink
 
 <br>
 Output untuk menambahkan hyperlink
-<br>
+
 ![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/Output_tambahhyperlink.PNG)
 
 <br>
