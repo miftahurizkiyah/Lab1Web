@@ -13,7 +13,17 @@ Langkah-Langkah Praktikum HTML
 ![input awal](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/SS1.PNG)
 kita menggunakan visual studio code dan google chrome.
 
-Langkah pertama adalah untuk membuat paragraf, source code nya adalah :
+Langkah pertama adalah untuk membuat paragraf: <br>
+![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/Membuat_Paragraf.PNG)
+<br>
+
+Selanjutnya kita akan menambahkan judul, source code nya <br>
+![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/Input_Tambahjudul.PNG)
+<br>
+untuk hasil outputnya <br>
+![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/Output_tambahjudul.PNG)
+
+
 
 
 
