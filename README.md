@@ -20,17 +20,17 @@ kita menggunakan visual studio code dan google chrome.<br>
 
 untuk merubah posisi kita bisa menggunakan align center atau right <br>
 ![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/Input_Align.PNG)
-<br>
-<br>
+
+
 ![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/align.PNG)
 
 
 2. Selanjutnya kita akan menambahkan judul, source code nya <br>
 ![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/Input_Tambahjudul.PNG)
-<br>
-untuk hasil outputnya <br>
+
+untuk hasil outputnya
 ![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/Output_tambahjudul.PNG)
-<br>
+
 
 3. Selanjutnya untuk menambahkan format text<br>
 <br>
@@ -44,6 +44,7 @@ Output Memformat Text
 4. Menyisipkan Gambar
 Input untuk menampilkan gambar pada html <br>
 ![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/Input_tambahgambar.PNG)
+
 <br>
 Output untuk menampilkan gambar pada html <br>
 ![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/Output_tambahgambar.PNG)
