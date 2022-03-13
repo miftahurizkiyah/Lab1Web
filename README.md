@@ -15,7 +15,7 @@ kita menggunakan visual studio code dan google chrome.<br>
 ![input awal](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/SS1.PNG)
 
 
-#1. Langkah pertama adalah untuk membuat paragraf: <br>
+## 1. Langkah pertama adalah untuk membuat paragraf: <br>
 ![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/Membuat_Paragraf.PNG)
 <br>
 
@@ -26,14 +26,14 @@ untuk merubah posisi kita bisa menggunakan align center atau right <br>
 ![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/align.PNG)
 
 
-#2. Selanjutnya kita akan menambahkan judul, source code nya <br>
+# 2. Selanjutnya kita akan menambahkan judul, source code nya <br>
 ![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/Input_Tambahjudul.PNG)
 
 untuk hasil outputnya
 ![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/Output_tambahjudul.PNG)
 
 
-#3. Selanjutnya untuk menambahkan format text<br>
+# 3. Selanjutnya untuk menambahkan format text<br>
 <br>
 Input Memformat Text
 
