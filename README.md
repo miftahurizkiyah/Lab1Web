@@ -17,6 +17,13 @@ Langkah pertama adalah untuk membuat paragraf: <br>
 ![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/Membuat_Paragraf.PNG)
 <br>
 
+untuk merubah posisi kita bisa menggunakan align center atau right <br>
+![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/Input_Align.PNG)
+<br>
+<br>
+![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/align.PNG)
+
+
 Selanjutnya kita akan menambahkan judul, source code nya <br>
 ![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/Input_Tambahjudul.PNG)
 <br>
