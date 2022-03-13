@@ -39,6 +39,16 @@ Input Memformat Text
 <br>
 Output Memformat Text
 ![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/Output_formattext.PNG)
+<br>
+
+4. Menyisipkan Gambar
+Input untuk menampilkan gambar pada html <br>
+![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/Input_tambahgambar.PNG)
+<br>
+Output untuk menampilkan gambar pada html <br>
+![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/Output_tambahgambar.PNG)
+<br>
+
 
 
 
