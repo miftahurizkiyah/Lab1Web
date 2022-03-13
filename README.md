@@ -54,6 +54,16 @@ Output untuk menampilkan gambar pada html <br>
 ![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/Output_tambahgambar.PNG)
 <br>
 
+5. Menambahkan Hyperlink 
+Input untuk menambahkan hyperlink
+
+![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/Input_tambahhyperlink.PNG)
+
+<br>
+Output untuk menambahkan hyperlink
+
+![Git Pict](https://github.com/miftahurizkiyah/Lab1Web/blob/master/Photo/Output_tambahhyperlink.PNG)
+
 
 
 
